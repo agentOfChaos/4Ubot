@@ -7,7 +7,12 @@ The bot needs channel operator status to run properly; see the settings.ini file
 Running
 -------
 
+Run from the project root:  
 $ twistd -n tw4u
+
+Stop with Ctrl-C  
+
+Tested on archlinux x86/x86_64  
 
 Dependancies
 ------------

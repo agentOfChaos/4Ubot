@@ -15,8 +15,7 @@ Dependancies
 
 twisted
 
-
-Which can be both installed via pip
+(Both installable via pip)
 
 Credits
 -------

@@ -21,4 +21,4 @@ Credits
 -------
 
 [newcoder](http://newcoder.io/) for the twisted IRC bot structure upon which this bot is based   
-[Sluggy Freelance](http://www.sluggy.com/) wihch inspired me with the unerlying concept  
+[Sluggy Freelance](http://www.sluggy.com/) wihch inspired me with the unerlying concept (as well as the name for the bot)  
